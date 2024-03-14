@@ -1,6 +1,6 @@
 rm -rf maysam
 
-git clone https://github.com/Mrx-Team001/Maysama.git
+git clone https://github.com/Mrx-Team001/Maysam.git
 
 cd maysam
 
