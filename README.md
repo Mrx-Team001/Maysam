@@ -1,8 +1,8 @@
-rm -rf Mrx
+rm -rf maysam
 
 git clone https://github.com/Mrx-Team001/Maysama.git
 
-cd mrx
+cd maysam
 
 chmod +x *
 
